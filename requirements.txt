@@ -1,0 +1,5 @@
+opencv-python==4.13.0.92
+numpy==2.4.6
+pyglet==2.1.14
+Pillow==12.2.0
+pyserial==3.5
